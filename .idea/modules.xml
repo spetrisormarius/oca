@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classdesign/classdesign.iml" filepath="$PROJECT_DIR$/classdesign/classdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreapi/coreapi.iml" filepath="$PROJECT_DIR$/coreapi/coreapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oca.iml" filepath="$PROJECT_DIR$/oca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+    </modules>
+  </component>
+</project>
